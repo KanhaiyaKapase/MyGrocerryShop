@@ -1,0 +1,17 @@
+.mamba-green {
+    font-family: 'YourCustomFont', sans-serif; /* Use the same font-family name as in the @font-face rule */
+    font-style: italic;
+    color: #7EA940;
+    font-weight: bold; /* Replace with your desired font-weight */
+    font-size: 24px; /* Replace with your desired font size */
+    text-transform: uppercase; /* Replace with your desired text transformation */
+  }
+
+  .anchor{
+    text-decoration:none;
+  }
+  
+.custom-button {
+    width: auto; /* Set the width to "auto" or a specific value */
+    /* Add any other styles you need */
+}
